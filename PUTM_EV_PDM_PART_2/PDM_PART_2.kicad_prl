@@ -1,41 +1,10 @@
 {
   "board": {
-    "active_layer": 1,
-    "active_layer_preset": "All Layers",
+    "active_layer": 0,
+    "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [
-      "Default"
-    ],
-    "hidden_nets": [
-      "",
-      "/GND PDM",
-      "/REARBOX 1 24VDC",
-      "/REARBOX 5 24VDC",
-      "/AIR PRESSURE 24VDC",
-      "/REARBOX 3 24VDC",
-      "/BSPD 24VDC",
-      "/ASMS SOURCE",
-      "/ODRIVE 1 24VDC",
-      "/PC 24VDC 1",
-      "/BRAKE BALANCE 24VDC",
-      "/PC 24VDC 3",
-      "/PC 24VDC 5",
-      "/ODRIVE 2 24VDC",
-      "/ODRIVE 4 24VDC",
-      "/INVERTER 1 24VDC",
-      "/HV LOGIKA 1 24VDC",
-      "/ASMS IN",
-      "/CAN_H",
-      "/CAN_L",
-      "Net-(J2-PadE1)",
-      "Net-(J2-PadF1)",
-      "Net-(J2-PadG1)",
-      "Net-(J2-PadH1)",
-      "unconnected-(J3-Pin_11-Pad11)",
-      "unconnected-(J3-Pin_34-Pad34)",
-      "/+24V",
-      "/GND"
-    ],
+    "hidden_netclasses": [],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -99,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "template.kicad_prl",
+    "filename": "PDM_PART_2.kicad_prl",
     "version": 3
   },
   "project": {

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DPT13-4P")(type "KiCad")(uri "${KICAD_PDM_2}/DPT13-4P.pretty")(options "")(descr ""))
+  (lib (name "UPT-02-01-01-L-RA")(type "KiCad")(uri "${KICAD_PDM_2}/UPT-02-01-01-L-RA.pretty")(options "")(descr ""))
+  (lib (name "UPT-08-07-01-L-V")(type "KiCad")(uri "${KICAD_PDM_2}/UPT-08-07-01-L-V.pretty")(options "")(descr ""))
+  (lib (name "UPT-02-01-01-L-V")(type "KiCad")(uri "${KICAD_PDM_2}/UPT-02-01-01-L-V.pretty")(options "")(descr ""))
+)

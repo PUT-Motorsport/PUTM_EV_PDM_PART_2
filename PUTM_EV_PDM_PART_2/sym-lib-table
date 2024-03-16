@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DTP13-4P")(type "Legacy")(uri "${KICAD_PDM_2}/DPT13-4P.pretty/DTP13-4P.lib")(options "")(descr ""))
+  (lib (name "UPT-04-01-01-X-RA")(type "KiCad")(uri "${KICAD_PDM_2}/UPT-04-01-01-L-RA.pretty/UPT-04-01-01-X-RA.kicad_sym")(options "")(descr ""))
+  (lib (name "UPT-02-01-01-X-RA")(type "KiCad")(uri "${KICAD_PDM_2}/UPT-02-01-01-L-RA.pretty/UPT-02-01-01-X-RA.kicad_sym")(options "")(descr ""))
+  (lib (name "UPS-08-07.0-01-L-V")(type "Legacy")(uri "${KICAD_PDM_2}/UPT-08-07-01-L-V.pretty/UPS-08-07.0-01-L-V.lib")(options "")(descr ""))
+  (lib (name "UPT-02-03.0-XX-X-V")(type "KiCad")(uri "${KICAD_PDM_2}/UPT-02-01-01-L-V.pretty/UPT-02-03.0-XX-X-V.kicad_sym")(options "")(descr ""))
+)
