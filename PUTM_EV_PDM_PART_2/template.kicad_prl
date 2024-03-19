@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 1,
+    "active_layer": 0,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -10,7 +10,6 @@
       "",
       "/GND PDM",
       "/REARBOX 1 24VDC",
-      "/REARBOX 5 24VDC",
       "/AIR PRESSURE 24VDC",
       "/REARBOX 3 24VDC",
       "/BSPD 24VDC",
@@ -27,14 +26,11 @@
       "/ASMS IN",
       "/CAN_H",
       "/CAN_L",
-      "Net-(J2-PadE1)",
-      "Net-(J2-PadF1)",
-      "Net-(J2-PadG1)",
-      "Net-(J2-PadH1)",
       "unconnected-(J3-Pin_11-Pad11)",
       "unconnected-(J3-Pin_34-Pad34)",
       "/+24V",
-      "/GND"
+      "/GND",
+      "/REARBOX 5 24VDC"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
