@@ -5,4 +5,5 @@
   (lib (name "UPT-02-01-01-X-RA")(type "KiCad")(uri "${KICAD_PDM_2}/UPT-02-01-01-L-RA.pretty/UPT-02-01-01-X-RA.kicad_sym")(options "")(descr ""))
   (lib (name "UPS-08-07.0-01-L-V")(type "Legacy")(uri "${KICAD_PDM_2}/UPT-08-07-01-L-V.pretty/UPS-08-07.0-01-L-V.lib")(options "")(descr ""))
   (lib (name "UPT-02-03.0-XX-X-V")(type "KiCad")(uri "${KICAD_PDM_2}/UPT-02-01-01-L-V.pretty/UPT-02-03.0-XX-X-V.kicad_sym")(options "")(descr ""))
+  (lib (name "UPS-02-04.0-01-L-V")(type "KiCad")(uri "${KICAD_PDM_2}/UPS-02-04.0-01-L-V.pretty/UPS-02-04.0-01-L-V.kicad_sym")(options "")(descr ""))
 )
