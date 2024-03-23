@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -14,23 +14,21 @@
       "/REARBOX 3 24VDC",
       "/BSPD 24VDC",
       "/ASMS SOURCE",
-      "/ODRIVE 1 24VDC",
       "/PC 24VDC 1",
       "/BRAKE BALANCE 24VDC",
       "/PC 24VDC 3",
       "/PC 24VDC 5",
-      "/ODRIVE 2 24VDC",
-      "/ODRIVE 4 24VDC",
+      "unconnected-(J3-Pin_24-Pad24)",
       "/INVERTER 1 24VDC",
       "/HV LOGIKA 1 24VDC",
       "/ASMS IN",
       "/CAN_H",
       "/CAN_L",
-      "unconnected-(J3-Pin_11-Pad11)",
       "unconnected-(J3-Pin_34-Pad34)",
       "/+24V",
       "/GND",
-      "/REARBOX 5 24VDC"
+      "/REARBOX 5 24VDC",
+      "unconnected-(J3-Pin_26-Pad26)"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
