@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 1,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -9,9 +9,7 @@
     "hidden_nets": [
       "",
       "/GND PDM",
-      "/REARBOX 1 24VDC",
       "/AIR PRESSURE 24VDC",
-      "/REARBOX 3 24VDC",
       "/BSPD 24VDC",
       "/ASMS SOURCE",
       "/PC 24VDC 1",
@@ -28,7 +26,11 @@
       "/+24V",
       "/GND",
       "/REARBOX 5 24VDC",
-      "unconnected-(J3-Pin_26-Pad26)"
+      "unconnected-(J3-Pin_26-Pad26)",
+      "/FAN",
+      "/PUMP_1",
+      "/PUMP_2",
+      "unconnected-(J3-Pin_12-Pad12)"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
