@@ -1057,7 +1057,7 @@
   (gr_text "beans v1.0\n" (at 114 120.2) (layer "B.Cu") (tstamp 5ba3910d-c4f2-472e-8687-e99a4b526b88)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify bottom mirror))
   )
-  (gr_text "v${REVISION}" (at 114.2 122.6) (layer "F.SilkS") (tstamp 7aec6c76-b5f7-446f-9417-fb725641127b)
+  (gr_text "v${REVISION}" (at 114.2 122.6 180) (layer "F.SilkS") (tstamp 7aec6c76-b5f7-446f-9417-fb725641127b)
     (effects (font (size 1 1) (thickness 0.15)) (justify bottom))
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 3cbe8ec4-7568-4757-b842-a71f9ec257dd)
