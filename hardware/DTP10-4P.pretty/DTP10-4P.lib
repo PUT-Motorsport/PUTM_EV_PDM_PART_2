@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DTP10-4P
+#/1841040/1334110/2.50/6/2/Connector
+DEF DTP10-4P J 0 30 Y Y 1 F N
+F0 "J" 650 600 50 H V L CNN
+F1 "DTP10-4P" 650 500 50 H V L CNN
+F2 "DTP104P" 650 400 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FDTP10-4P%7FA1%7Fpdf%7FEnglish%7FENG_CD_DTP10-4P_A1.pdf%7FDTP10-4P" 650 300 50 H I L CNN
+F4 "PCB Mount Header, Vertical, Wire-to-Board, 4 Position, 10.16 mm [.4 in] Centerline, Fully Shrouded, Tin, Through Hole - Solder, Sealable, Hybrid" 650 200 50 H I L CNN "Description"
+F5 "27.44" 650 100 50 H I L CNN "Height"
+F6 "571-DTP10-4P" 650 0 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-DEUTSCH/DTP10-4P?qs=cgQJD%2FpJz0zuerY7ez6HGA%3D%3D" 650 -100 50 H I L CNN "Mouser Price/Stock"
+F8 "TE Connectivity" 650 -200 50 H I L CNN "Manufacturer_Name"
+F9 "DTP10-4P" 650 -300 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 800 0 200 L 50 50 0 0 P
+X 2 2 800 -100 200 L 50 50 0 0 P
+X 3 3 0 -100 200 R 50 50 0 0 P
+X 4 4 0 0 200 R 50 50 0 0 P
+X MH1 MH1 400 600 200 D 50 50 0 0 P
+X MH2 MH2 400 -700 200 U 50 50 0 0 P
+P 5 0 1 6 200 400 600 400 600 -500 200 -500 200 400 N
+ENDDRAW
+ENDDEF
+#
+#End Library
